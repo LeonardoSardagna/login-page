@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Minha conta</title>
+    <link rel="shortcut icon" href="imagens/senha (1).png" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="imagem">
+            <img src="imagens/undraw_two_factor_authentication_namy.svg" alt="imagem do eu site">
+        </div>
+        <div class="form">
+            <form action="#">
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Cadastre-se</h1>
+                    </div>
+                    <div class="login-button">
+                        <button><a href="#">Entrar</a></button>
+                    </div>
+                </div>
+                <!-- Primeiro nome, sobrenome, e-mail, senha, confirme a senha -->
+                <div class="input-group">
+                     <div class="input-box">
+                        <label for="first-name">Primeiro nome: </label>
+                        <input id="first-name" type="text" name="fist-name" placeholder="Primeiro nome" required>
+                     </div>
+                     <div class="input-group">
+                        <label for="last-name">Sobrenome:</label>
+                        <input id="last-name" type="text" name="last-name" placeholder="Segundo nome" required>
+                     </div>
+                     <div class="input-group">
+                        <label for="email">E-mail:</label>
+                        <input id="email" type="text" name="email" placeholder="Digite seu e-mail" required>
+                     </div>
+                     <div class="input-group">
+                        <label for="password">Senha:</label>
+                        <input id="password" type="password" name="password" placeholder="Insira a sua senha" required minlength="8" maxlength="15">
+                     </div>
+                     <div class="input-group">
+                        <label for="password">Digite novamente:</label>
+                        <input id="password" type="password" name="password" placeholder="Digite novamente" required minlength="8" maxlength="15">
+                     </div>
+                </div>
+                <div class="gender-groups">
+
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
