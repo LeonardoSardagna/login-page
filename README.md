@@ -7,6 +7,6 @@
 </div> 
 <div class= text>
   <p>
-    Olá a todos! Quero compartilhar com vocês o projeto de página de login que desenvolvi recentemente usando minhas habilidades em HTML e CSS. Esta página de login é uma parte crucial de muitos sites e aplicativos, pois permite que os usuários acessem suas contas de forma segura.
+    Olá a todos! Quero compartilhar com vocês o projeto página de FORMULÁRIO DE CADASTRO RESPONSIVO, usando HTML e CSS que desenvolvi. Esta página de login é uma parte crucial de muitos sites e aplicativos, pois permite que os usuários acessem suas contas de forma segura.
   </p>
 </div>
